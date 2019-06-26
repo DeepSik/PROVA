@@ -1,2 +1,6 @@
 blablalba
+<<<<<<< HEAD
 a
+=======
+jdskaldasjldas
+>>>>>>> designer2
